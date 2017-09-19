@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Categories">
+        <item>all</item>
+        <item>All Classic</item>
+        <item>All Dirty Categories</item>
+        <item>Sex Things</item>
+        <item>Cards Against Humanity</item>
+        <item>WTF</item>
+        <item>Classic Easy</item>
+        <item>Classic Medium</item>
+        <item>Classic Hard</item>
+        <item>Classic Animals</item>
+        <item>Classic Food</item>
+        <item>Classic Household Items</item>
+        <item>Classic People</item>
+        <item>Classic Travel</item>
+
+    </string-array>
+</resources>

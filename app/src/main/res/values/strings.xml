@@ -1,0 +1,688 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Catch Phrase Against Humanity</string>
+    <string-array name="Postions">
+        <item>cowgirl</item>
+        <item> 69</item>
+        <item>reverse cowgirl</item>
+        <item>Bukkake</item>
+        <item>Angry Dragon</item>
+        <item>doggy Style</item>
+        <item>Condoms</item>
+        <item>Vibrator</item>
+        <item>Dildo</item>
+        <item>strap-on</item>
+        <item>Lube</item>
+        <item>Forplay</item>
+        <item>Blowjob</item>
+        <item>Orgasm</item>
+        <item>Anal Sex</item>
+        <item>Creampie</item>
+        <item>Orgy</item>
+        <item>Masturbation</item>
+        <item>Double Penetration</item>
+        <item>Handjob</item>
+        <item>Cumshot</item>
+        <item> Fisting</item>
+        <item>Porn</item>
+        <item>Fleshlight</item>
+        <item>Pocket Pussy</item>
+        <item>Bondage</item>
+        <item>Fetish</item>
+        <item>lingerie</item>
+        <item>butt plug</item>
+        <item>Nipple Clamps</item>
+        <item>Sex Swing</item>
+        <item>Sex Whip</item>
+        <item> Cock Rings</item>
+        <item>Penis Pump</item>
+        <item>Sex Dolls</item>
+        <item>Vibrating Panties</item>
+        <item>BDSM</item>
+        <item>Golden Showers</item>
+        <item>Prostitue</item>
+    </string-array>
+
+    <string-array name="WTF">
+        <item>Child Rape</item>
+        <item>Genital Warts</item>
+        <item>Chlamydia</item>
+        <item>Gonorrhea</item>
+        <item>Holocaust</item>
+        <item>Genocide</item>
+        <item>Russian sleep Experiment</item>
+        <item>Child porn</item>
+    </string-array>
+
+    <string-array name="CAH">
+        <item>anal beads</item>
+        <item>German dungeon porn</item>
+        <item>MechaHilter</item>
+        <item>AIDS</item>
+        <item>Getting Naked and watching Nickelodeon</item>
+        <item>A super Soaker full of cat pee</item>
+        <item>the KKK</item>
+        <item>Lactation</item>
+        <item>Coat Hanger Abortions</item>
+        <item>The Clitoris</item>
+        <item>Dead babies</item>
+        <item>Adderall</item>
+        <item>Smallpox blankets</item>
+        <item>Sexting</item>
+        <item>porn stars</item>
+        <item>The Three-fiths Compromise</item>
+        <item>Dead parents</item>
+        <item>Viagra</item>
+        <item>Necrophilia</item>
+        <item>Queefing</item>
+        <item>Tentacle porn</item>
+        <item>72 virgins</item>
+        <item>BATMAN!!!</item>
+        <item>pulling out</item>
+        <item>Date Rape</item>
+        <item>Smegma</item>
+        <item>Child Abuse</item>
+        <item>foreskin</item>
+        <item>Whipping it out</item>
+        <item>Vehicular manslaughter</item>
+        <item>Auschwitz</item>
+        <item>Raping and pillaging</item>
+        <item>Fiery poops</item>
+        <item>Waterboarding</item>
+        <item>Police brutality</item>
+    </string-array>
+
+    <string-array name="Easy">
+        <item>Baby</item>
+        <item>Door</item>
+        <item>Banana</item>
+        <item>Finger</item>
+        <item>fence</item>
+        <item>big</item>
+        <item>Swimming pool</item>
+        <item>sun</item>
+        <item>church</item>
+        <item>yo-yo</item>
+        <item>boy</item>
+        <item>bag</item>
+        <item>alligator</item>
+        <item>mouse</item>
+        <item>Birthday</item>
+        <item>winter</item>
+        <item>beach</item>
+        <item>tree</item>
+        <item>king</item>
+        <item>telephone</item>
+        <item>eye</item>
+        <item>water</item>
+        <item>jelly</item>
+        <item>balloon</item>
+        <item>toothbrush</item>
+        <item>pants</item>
+        <item>mom</item>
+        <item>body</item>
+        <item>bike</item>
+        <item>toilet paper</item>
+        <item>fire</item>
+        <item>school</item>
+        <item>belt</item>
+        <item>pajamas</item>
+        <item>mud</item>
+        <item>ice cream cone</item>
+        <item>arm</item>
+        <item>drums</item>
+        <item>spider</item>
+        <item>shark</item>
+        <item>seashell</item>
+        <item>computer</item>
+        <item>grandma</item>
+        <item>pillow</item>
+        <item>kite</item>
+        <item>homework</item>
+        <item>ladybug</item>
+        <item>bed</item>
+        <item>bird</item>
+        <item>gum</item>
+        <item>book</item>
+        <item>dress</item>
+        <item>queen</item>
+        <item>puppy</item>
+        <item>happy</item>
+        <item>doctor</item>
+        <item>frog</item>
+        <item>blanket</item>
+        <item>popsicle</item>
+        <item>pen</item>
+        <item>sandwich</item>
+        <item>boat</item>
+        <item>dad</item>
+        <item>lunchbox</item>
+        <item>ice</item>
+        <item>bottle</item>
+        <item>elbow</item>
+        <item>penny</item>
+        <item>broom</item>
+        <item>dog</item>
+        <item>rose</item>
+        <item>picnic</item>
+        <item>chair</item>
+        <item>duck</item>
+        <item>hair</item>
+        <item>zoo</item>
+        <item>party</item>
+        <item>piano</item>
+        <item>key</item>
+        <item>apple</item>
+        <item>chalk</item>
+        <item>park</item>
+        <item>clock</item>
+        <item>pencil</item>
+        <item>hill</item>
+        <item>flag</item>
+        <item>lollipop</item>
+        <item>candle</item>
+        <item>flower</item>
+        <item>basketball</item>
+        <item>hug</item>
+        <item>clown</item>
+        <item>paper</item>
+        <item>mountain</item>
+        <item>nose</item>
+        <item>cow</item>
+        <item>grown-up</item>
+        <item>grass</item>
+        <item>rainbow</item>
+        <item>hide-and-seek</item>
+        <item>pocket</item>
+        <item>grape</item>
+        <item>cowboy</item>
+        <item>doll</item>
+        <item>forehead</item>
+        <item>football</item>
+        <item>crayon</item>
+        <item>desk</item>
+        <item>TV</item>
+        <item>bedtime</item>
+        <item>hopscotch</item>
+        <item>dump truck</item>
+        <item>cold</item>
+        <item>paint</item>
+        <item>ear</item>
+        <item>moon</item>
+    </string-array>
+
+    <string-array name="Medium">
+        <item>Taxi Cab</item>
+        <item>Standing ovation</item>
+        <item> Alarm clock </item>
+        <item> Tool </item>
+        <item>banana peel</item>
+        <item>flagpole</item>
+        <item>money</item>
+        <item>wallet</item>
+        <item>ballpoint pen</item>
+        <item>sunburn</item>
+        <item>wedding ring</item>
+        <item>spy</item>
+        <item>baby-siter</item>
+        <item>aunt</item>
+        <item>acne</item>
+        <item>bib</item>
+        <item>puzzle piece</item>
+        <item>pawn</item>
+        <item>astronaut</item>
+        <item>tennis shoes</item>
+        <item>blue jeans</item>
+        <item>twig</item>
+        <item>outer space</item>
+        <item>banister</item>
+        <item>batteries</item>
+        <item>doghouse</item>
+        <item>campsite</item>
+        <item>plumber</item>
+        <item>begbug</item>
+        <item>throne</item>
+        <item>tiptoe</item>
+        <item>log</item>
+        <item>mute</item>
+        <item>pogo stick</item>
+        <item>stoplight</item>
+        <item>ceiling fan</item>
+        <item>bedspread</item>
+        <item>bite</item>
+        <item>stove</item>
+        <item>windwill</item>
+        <item>nightmare</item>
+        <item>stripe</item>
+        <item>spring</item>
+        <item>wristwatch</item>
+        <item>eat</item>
+        <item>matchstick</item>
+        <item>gumball</item>
+        <item>bobsled</item>
+        <item>bonnet</item>
+        <item>flock</item>
+        <item>sprinkler</item>
+        <item>living room</item>
+        <item>laugh</item>
+        <item>snuggle</item>
+        <item>sneezer</item>
+        <item>bud</item>
+        <item>elf</item>
+        <item>headache</item>
+        <item>slam dunk</item>
+        <item>internet</item>
+        <item>saddle</item>
+        <item>ironing board</item>
+        <item>bathroom scale</item>
+        <item>kiss</item>
+        <item>shopping cart</item>
+        <item>shipwreck</item>
+        <item>funny</item>
+        <item>glide</item>
+        <item>lamp</item>
+        <item>candlestick</item>
+        <item>grandfather</item>
+        <item>rocket</item>
+        <item>home movies</item>
+        <item>seesaw</item>
+        <item>rollerblades</item>
+        <item>smog</item>
+        <item>grill</item>
+        <item>goblin</item>
+        <item>coach</item>
+        <item>claw</item>
+        <item>cloud</item>
+        <item>shelf</item>
+        <item>recycle</item>
+        <item>glue stick</item>
+        <item>Christmas carolers</item>
+        <item>front porch</item>
+        <item>earache</item>
+        <item>robot</item>
+        <item>foil</item>
+        <item>rib</item>
+        <item>rode</item>
+        <item>crumb</item>
+        <item>paperback</item>
+        <item>hurdle</item>
+        <item>rattle</item>
+        <item>fetch</item>
+        <item>date</item>
+        <item>ipod</item>
+        <item>dance</item>
+        <item>cello</item>
+        <item>flute</item>
+        <item>dock</item>
+        <item>prize</item>
+        <item>dollat</item>
+        <item>puppet</item>
+        <item>brass</item>
+        <item>firefighter</item>
+        <item>huddle</item>
+        <item>easel</item>
+        <item>pigpen</item>
+        <item>bunk bed</item>
+        <item>bowtie</item>
+        <item>fiddle</item>
+        <item>dentist</item>
+        <item>baseboards</item>
+        <item>letter opener</item>
+        <item>photographer</item>
+        <item>magic</item>
+        <item>old spice</item>
+        <item>monster</item>
+    </string-array>
+
+    <string-array name="Hard">
+        <item>Whatever</item>
+        <item>Buddy</item>
+        <item>Sip</item>
+        <item> Chicken Coop</item>
+        <item>blur</item>
+        <item>chime</item>
+        <item>bleach</item>
+        <item>clay</item>
+        <item>blossom</item>
+        <item>cog</item>
+        <item>twitterpated</item>
+        <item>wish</item>
+        <item>through</item>
+        <item>feudalism</item>
+        <item>whiplash</item>
+        <item>cot</item>
+        <item>blueprint</item>
+        <item>beanstalk</item>
+        <item>think</item>
+        <item>cardboard</item>
+        <item>darts</item>
+        <item>inn</item>
+        <item>zen</item>
+        <item>crows nest</item>
+        <item>BFF</item>
+        <item>sheriff</item>
+        <item>tiptop</item>
+        <item>dot</item>
+        <item>bob</item>
+        <item>garden hose</item>
+        <item>blimp</item>
+        <item>dress shirt</item>
+        <item>reimbursement</item>
+        <item>capitalism</item>
+        <item>step-daughter</item>
+        <item>applause</item>
+        <item>jig</item>
+        <item>jade</item>
+        <item>blunt</item>
+        <item>application</item>
+        <item>rag</item>
+        <item>squint</item>
+        <item>intern</item>
+        <item>sows ear</item>
+        <item>brainstorm</item>
+        <item>sling</item>
+        <item>half</item>
+        <item>pinch</item>
+        <item>leak</item>
+        <item>skating rink</item>
+        <item>jog</item>
+        <item>jammin</item>
+        <item>shrunk ray</item>
+        <item>dent</item>
+        <item>scoundrel</item>
+        <item>escalator</item>
+        <item>cell phone charger</item>
+        <item>kitchen knife set</item>
+        <item>sequins</item>
+        <item>ladder rung</item>
+    </string-array>
+
+    <string-array name="Animals">
+        <item>Panda</item>
+        <item>Housecat</item>
+        <item>Moth</item>
+        <item>Moose</item>
+        <item>water buffalo</item>
+        <item>caterpillar</item>
+        <item>albatross</item>
+        <item>duck</item>
+        <item>mouse</item>
+        <item>salamander</item>
+        <item>canadian goose</item>
+        <item>rat</item>
+        <item>aardvark</item>
+        <item>joey</item>
+        <item>robin</item>
+        <item>horse</item>
+        <item>koala</item>
+        <item>black bear</item>
+        <item>hippopotamus</item>
+        <item>camel</item>
+        <item>cougar</item>
+        <item>giraffe</item>
+        <item>bald eagle</item>
+        <item>crocodile</item>
+        <item>dog</item>
+        <item>bird</item>
+        <item>penguin</item>
+        <item>pony</item>
+        <item>bat</item>
+        <item>otter</item>
+        <item>porcupine</item>
+        <item>dolphin</item>
+        <item>hamster</item>
+        <item>chameleon</item>
+        <item>swordfish</item>
+        <item>groundhog</item>
+        <item>cricket</item>
+        <item>clownfish</item>
+        <item>gila monster</item>
+        <item>leopard</item>
+        <item>rabbit</item>
+        <item>buffalo</item>
+        <item>shark</item>
+        <item>stallion</item>
+        <item>wombat</item>
+        <item>kitten</item>
+        <item>reindeer</item>
+        <item>wolf</item>
+        <item>dragon</item>
+        <item>blue whale</item>
+        <item>hyena</item>
+        <item>unicorn</item>
+        <item>tuna</item>
+        <item>patypus</item>
+        <item>basset hound</item>
+        <item>shrimp</item>
+        <item>skunk</item>
+        <item>bulldog</item>
+        <item>ladybug</item>
+        <item>beaver</item>
+    </string-array>
+
+    <string-array name="Food">
+        <item>Sandwich</item>
+        <item>Kumquat</item>
+        <item>Black beans</item>
+        <item>Spatula</item>
+        <item>pizza</item>
+        <item>Zest</item>
+        <item>cheese</item>
+        <item>tempura</item>
+        <item>ice cream sundae</item>
+        <item>rolling pin</item>
+        <item>egg salad</item>
+        <item>artichoke</item>
+        <item>grape</item>
+        <item>milk</item>
+        <item>banana split</item>
+        <item>boild egg</item>
+        <item>soup de jour</item>
+        <item>taco bell</item>
+        <item>lasagna</item>
+        <item>toaster</item>
+        <item>soft pretzel</item>
+        <item>bread</item>
+        <item> jellybeans</item>
+        <item>mac and cheese</item>
+        <item>mushroom</item>
+        <item>cupcakes</item>
+        <item>apple pie</item>
+        <item>wok</item>
+        <item>oven mitt</item>
+        <item> corn</item>
+        <item>avocado</item>
+        <item>egg timer</item>
+        <item>muffin tin</item>
+        <item>whick</item>
+        <item>dairy</item>
+        <item>potato chips</item>
+        <item>sun-dried tomatoes</item>
+        <item>granola bars</item>
+        <item>sea salt</item>
+        <item>poultry</item>
+        <item>noodles</item>
+        <item>lemon zester</item>
+        <item>banana</item>
+        <item>simmer</item>
+        <item>freeze</item>
+        <item>blender</item>
+        <item>cornbread</item>
+        <item>produce</item>
+        <item>salt shaker</item>
+        <item>dutch oven</item>
+        <item>poach</item>
+        <item>apple</item>
+        <item>balsamic vinegar</item>
+        <item>shish kabob</item>
+        <item>sifter</item>
+        <item>meatballs</item>
+    </string-array>
+
+    <string-array name="HouseholdItems">
+        <item>Calendar</item>
+        <item>Hot Water</item>
+        <item>Paint</item>
+        <item>Tennis shoes</item>
+        <item>magnets</item>
+        <item>desk</item>
+        <item>hairspray</item>
+        <item>printer paper</item>
+        <item>trash can</item>
+        <item>washing machine</item>
+        <item>cell phone charger</item>
+        <item>sweater vest</item>
+        <item>shoes</item>
+        <item>button</item>
+        <item>hand soap</item>
+        <item>toilet paper</item>
+        <item>dryer sheets</item>
+        <item>piano</item>
+        <item>mirror</item>
+        <item>crayons</item>
+        <item>t-shirt</item>
+        <item>picture frame</item>
+        <item>skirt</item>
+        <item>flowers</item>
+        <item>speakers</item>
+        <item>garage</item>
+        <item>foormat</item>
+        <item>gardon hose</item>
+        <item>spice rack</item>
+        <item>quilt</item>
+        <item>stapler</item>
+        <item>camera</item>
+        <item>dress shirt</item>
+        <item>sweater</item>
+        <item>cell phone</item>
+        <item>umbrella</item>
+        <item>hand lotion</item>
+        <item>towel</item>
+        <item>banister</item>
+        <item>boots</item>
+        <item>red wagon</item>
+        <item>ironing board</item>
+        <item>shampoo</item>
+        <item>books</item>
+        <item>baseboards</item>
+        <item>bicycle</item>
+        <item>blue jeans</item>
+        <item>socks</item>
+        <item>skateboard</item>
+        <item>vest</item>
+        <item>sunglasses</item>
+        <item>headband</item>
+        <item>scissors</item>
+        <item>light switch</item>
+        <item>magazine</item>
+        <item>markers</item>
+        <item>pillowcase</item>
+        <item>sofa</item>
+        <item>scarf</item>
+        <item>ladder</item>
+    </string-array>
+
+    <string-array name="People">
+        <item>Aristotle</item>
+        <item>Amanda Bynes</item>
+        <item>Will Smith</item>
+        <item>Tom Hanks</item>
+        <item>Babe ruth</item>
+        <item>walt disney</item>
+        <item>carrie fisher</item>
+        <item>galileo</item>
+        <item>Mr.Rogers</item>
+        <item>Leonardo DiCapro</item>
+        <item>Abraham Lincoln</item>
+        <item>Andy Griffith</item>
+        <item>Mohammad Ali</item>
+        <item>Oscar wilde</item>
+        <item>Paul McCartney</item>
+        <item>Micheal Phelps</item>
+        <item>plato</item>
+        <item>Lewis and Clark</item>
+        <item>johnny Depp</item>
+        <item>Buddy Holly</item>
+        <item>Leonardo Da Vinci</item>
+        <item>Beethoven</item>
+        <item>tiger woods</item>
+        <item>Benjamin Franklin</item>
+        <item>Mother Teresa </item>
+        <item>Michael J. Fox</item>
+        <item>Bill Gates</item>
+        <item>Albert Einstein</item>
+        <item>Victor hugo</item>
+        <item>Justin beiber</item>
+        <item>Bill Clinton</item>
+        <item>the Wright Brothers</item>
+        <item>the Beatles</item>
+        <item>shia Labeouf</item>
+        <item>Neil Diamond</item>
+        <item>steve Jobs</item>
+        <item>Eddie Murphy</item>
+        <item>Harrison ford</item>
+        <item>Shaquille ONeal</item>
+    </string-array>
+
+    <string-array name="Travel">
+        <item>Egypt</item>
+        <item>Skiing</item>
+        <item>The Bahamas</item>
+        <item>Luggage</item>
+        <item>Europe</item>
+        <item>beach house</item>
+        <item>pakcing</item>
+        <item>camping</item>
+        <item>rainforest</item>
+        <item>Colorado</item>
+        <item>river</item>
+        <item>airport</item>
+        <item>summer</item>
+        <item>Canada</item>
+        <item>sunscreen</item>
+        <item>Disneylnad</item>
+        <item>passport</item>
+        <item>Arizona</item>
+        <item>Aruba</item>
+        <item>Sightseeing</item>
+        <item>resort</item>
+        <item>water park</item>
+        <item>customs</item>
+        <item>America</item>
+        <item>Africa</item>
+        <item>tourist</item>
+        <item>island</item>
+        <item>lake</item>
+        <item>sunny weather</item>
+        <item>airport security</item>
+        <item>cruise ship</item>
+        <item>Mexico</item>
+        <item>sleeping bag</item>
+        <item>hotel</item>
+        <item>mountain biking</item>
+        <item>Paris</item>
+        <item>road trip</item>
+        <item>bermuda</item>
+        <item>Jamaica</item>
+        <item>Spain</item>
+        <item>snowboarding</item>
+        <item>map</item>
+        <item>trains</item>
+        <item>Alaska</item>
+        <item>camera</item>
+        <item>theme park</item>
+        <item>national park</item>
+        <item>tour guide</item>
+        <item>relax</item>
+        <item>Delaware</item>
+        <item>airplane</item>
+        <item>bug spray</item>
+        <item>scenery</item>
+        <item>layover</item>
+        <item>fanny pack</item>
+        <item>river rafting</item>
+        <item>beach ball</item>
+        <item>kayak</item>
+    </string-array>
+
+</resources>

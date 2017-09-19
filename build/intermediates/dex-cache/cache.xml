@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ben\.android\build-cache\d7893766367d6389accd1a145a1c900511bca396\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\Ben\Desktop\CPAH\CatchPhraseAgainstHumanity\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_275b0dfed5d9dc18863e461bce3b401c627ab590\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ben\.android\build-cache\ca8a0ed5b7bdb65759a5883004c9a5ccff80dc08\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Ben\Desktop\CPAH\CatchPhraseAgainstHumanity\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a10bd134d4de3551fbc28c99f4f94e4826b1ad42\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ben\.android\build-cache\33d48c4a94a9854fe455eab307aed1d989d28688\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\Ben\Desktop\CPAH\CatchPhraseAgainstHumanity\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4d627c42dba9b9da961b321379a85a6788a32b83\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ben\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\Ben\Desktop\CPAH\CatchPhraseAgainstHumanity\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_d5b800cce1352dde8b8e84a5aa5de47e6be1d6cd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ben\.android\build-cache\6bcaa7efb182b6ab44239112d24ad85363a4510a\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\Ben\Desktop\CPAH\CatchPhraseAgainstHumanity\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_ca71f4ba3d1b8bcaddd41e2dc7b17c5cdb8fdfab\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ben\.android\build-cache\33d48c4a94a9854fe455eab307aed1d989d28688\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\Ben\Desktop\CPAH\CatchPhraseAgainstHumanity\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_ad7ad303cf1927ae95a1f327418dd87783da7095\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ben\Desktop\CPAH\CatchPhraseAgainstHumanity\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="C:\Users\Ben\Desktop\CPAH\CatchPhraseAgainstHumanity\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_332762a7f0b7196dc5d045d201a3d4839f3c517e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ben\.android\build-cache\bea628b26161d93fdb46cd8943f4b9fd67291e8f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\Ben\Desktop\CPAH\CatchPhraseAgainstHumanity\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_20c24a6804a23987eee2dd67bb016a89fc0eb04a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ben\.android\build-cache\27642dbac4ca4851f7dc6e0491c615bd1947d79a\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\Ben\Desktop\CPAH\CatchPhraseAgainstHumanity\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_b679456945cca14b66eb34d28300499f69d3466f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ben\.android\build-cache\4845679c40207723b38de986ad1abe68c15c5d29\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\Ben\Desktop\CPAH\CatchPhraseAgainstHumanity\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7b9ef2d3d1a7bdf4c807bb19abf3bdc3c4e799d9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ben\Desktop\CPAH\CatchPhraseAgainstHumanity\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="022fde86d2381b9db5d85c421d336ccc40d414c4">
+        <dex dex="C:\Users\Ben\Desktop\CPAH\CatchPhraseAgainstHumanity\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_853441b845fed7a6355ffe8d507e18b45d8f0d5b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ben\.android\build-cache\0ab22ff834ac36c5626b3b14c70281f02fe7866e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\Ben\Desktop\CPAH\CatchPhraseAgainstHumanity\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_55a159a9a72012234de576c9af6909a02c0d2b6e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ben\.android\build-cache\3d41e07fde83a4e4634c16a696fb3017f7f7bc8f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\Ben\Desktop\CPAH\CatchPhraseAgainstHumanity\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7b3062893dcf5d4538bc9382944c332820285bca\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ben\.android\build-cache\d7893766367d6389accd1a145a1c900511bca396\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\Ben\Desktop\CPAH\CatchPhraseAgainstHumanity\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_887475736b251c6a9e0c262865812c60d8bdb7e3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ben\.android\build-cache\6bcaa7efb182b6ab44239112d24ad85363a4510a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\Ben\Desktop\CPAH\CatchPhraseAgainstHumanity\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b8afca545ef7dfec8e3eebb10b0a2685bf7e2e0f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ben\.android\build-cache\0ab22ff834ac36c5626b3b14c70281f02fe7866e\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\Ben\Desktop\CPAH\CatchPhraseAgainstHumanity\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_17cb0e00bac00cfc0ad554b9d99368884f665374\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ben\.android\build-cache\27642dbac4ca4851f7dc6e0491c615bd1947d79a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\Ben\Desktop\CPAH\CatchPhraseAgainstHumanity\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d457a9cb1a65907b4b349da25c7fe04d34f1894a\classes.dex" />
+    </item>
+
+</items>
